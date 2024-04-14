@@ -22,39 +22,38 @@ The resultant Tableau tool lets the users:
 
 * Understand the differences between short-term and long-term rentals based on the number of nights stayed.
 
-
+<img width="366" alt="1" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/1ac6555d-5e83-416a-9781-b88339a97e64">
 
 ## _**Commercial Segmentation**_
 
+<img width="939" alt="2" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/e1a82535-25ed-4282-b377-9cd93f48166d">
 
 ## _**Scalability of the Interactive Data Visualization Tool**_
 
+<img width="954" alt="3" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/8543cc40-b4d1-416b-a366-9a6c051cde4c">
+
+<img width="938" alt="4" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/4bb4e0f1-dade-4a2f-99bb-6f0d5a14411a">
 
 ## _**Dashboards**_
 
 ### _**Dashboard 1 : Executive Summary**_
 
-
-
+<img width="959" alt="5" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/130786bf-3b2c-4418-ab27-5fb3e23b9efc">
 
 ### _**Dashboard 2 : Property Portfolio**_
 
-
-
-
+<img width="953" alt="6" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/df82def2-eb8d-47fa-ad9b-d271d4b58b77">
 
 ### _**Dashboard 3 : Property-Based Statistics**_
 
-
-
+<img width="951" alt="7" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/2ee4ecad-dd50-4699-b3a8-b725494d4809">
 
 ### _**Dashboard 4 : Commercial Segmentation - Renting Frequency & Revenue**_
 
-
-
+<img width="956" alt="8" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/a8a558b9-649a-445e-b48d-3093c4455ae9">
 
 ### _**Dashboard 5 : Licensing Analysis**_
 
-
+<img width="956" alt="9" src="https://github.com/ananthakrishna-kalle-neu/Data_Analysis_Airbnb_Financial_Model/assets/114686559/2324fd44-236e-4c70-88e5-75808c8673b7">
 
 
